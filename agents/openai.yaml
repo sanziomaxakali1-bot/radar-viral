@@ -1,0 +1,6 @@
+interface:
+  display_name: "Radar Viral"
+  short_description: "Pesquisa tendÃªncias e cria Reels prontos"
+  brand_color: "#E85D3F"
+  default_prompt: "Use $radar-viral para abrir o Radar Viral e comeÃ§ar pela pesquisa, briefing da oferta, nicho, pÃºblico e formato."
+
