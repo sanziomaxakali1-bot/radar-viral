@@ -1,4 +1,4 @@
-param([switch]$InstallOptional)
+param([switch]$InstallOptional, [switch]$SemMotor)
 $ErrorActionPreference = 'Continue'
 $checks = @(
   @{ Name = 'Node.js'; Command = 'node'; Args = @('--version') },
@@ -19,3 +19,12 @@ Write-Host 'Credenciais nao sao instaladas automaticamente.' -ForegroundColor Gr
 Write-Host 'Para conectar ElevenLabs: npx -y @elevenlabs/cli@latest onboard init' -ForegroundColor Gray
 if ($missing.Count -gt 0) { Write-Host "Pendencias: $($missing -join ', ')" -ForegroundColor Yellow; exit 1 }
 Write-Host 'Ambiente basico pronto.' -ForegroundColor Green
+# Motor de video (Remotion + three.js): instala as dependencias de motor-video na primeira vez
+$motor = Join-Path (Split-Path $PSScriptRoot -Parent) 'motor-video'
+if (-not $SemMotor -and (Test-Path (Join-Path $motor 'package.json'))) {
+  if (Test-Path (Join-Path $motor 'node_modules')) { Write-Host 'OK   Motor de video (Remotion) ja instalado' -ForegroundColor Green }
+  else {
+    Write-Host 'Instalando o motor de video (Remotion). Na primeira renderizacao o Remotion tambem baixa o navegador dele (cerca de 200-300 MB).' -ForegroundColor Cyan
+    Push-Location $motor; npm install; Pop-Location
+  }
+}

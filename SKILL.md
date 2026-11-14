@@ -136,7 +136,7 @@ Use, quando dispon�veis, os componentes reaproveitados:
 
 - `editar-criativo`: FFmpeg, montagem vertical, cortes, varia��es, captions, efeitos, LUFS e folhas de frames;
 - `animador-zero`: Faster-Whisper, pr�via, Three.js/Puppeteer, render quadro a quadro, personagens, c�mera, trilha e mixagem;
-- Remotion ou outro motor dispon�vel: composi��o, render e legendas temporizadas.
+- Remotion ou outro motor dispon�vel: composi��o, render e legendas temporizadas. Para criativos em vídeo vertical, siga as regras do motor Remotion em [references/motor-principal.md](references/motor-principal.md).
 
 Sempre fa�a:
 

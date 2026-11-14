@@ -1,0 +1,18 @@
+{
+  "idioma": "pt",
+  "projetos": {
+    "exemplo-escuro": {
+      "comp": "vsl",
+      "marca": {"nome": "SEU PRODUTO", "a": "SEU", "b": "PRODUTO", "produto": "Seu Produto", "slug": "seuproduto"},
+      "linhas": [
+        {"scene": "mosaic", "text": "Esses vídeos foram feitos sem câmera, e sem ninguém aparecer.", "person": true},
+        {"scene": "fora", "text": "Você vai mesmo ficar de fora disso?", "person": true},
+        {"scene": "editar", "text": "Só que quase todo mundo trava em editar. Um vídeo leva horas, e a pessoa desiste.", "person": true},
+        {"scene": "logo", "text": "Por isso existe o Seu Produto.", "person": true},
+        {"scene": "pipeline", "text": "Roteiro, narração, legenda e cenas. Tudo pronto pra postar.", "person": true},
+        {"scene": "tres", "text": "Sem aparecer na câmera, sem saber editar, e sem ter seguidor.", "person": true},
+        {"scene": "cta", "text": "Toque em Saiba mais, e comece hoje.", "person": true}
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+out/
+cache-voz/
+public/voz/
+public/clips/*
+!public/clips/LEIA-ME.txt
+src/projetos.json
+.env.local
+.env
