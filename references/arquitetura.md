@@ -2,35 +2,34 @@
 
 ```text
 painel de perguntas
-  â†“
+  ?
 briefing de oferta e lead
-  â†“
-pesquisa e anÃ¡lise de tendÃªncias
-  â†“
+  ?
+pesquisa e an�lise de tend�ncias
+  ?
 roteiro original
-  â†“
+  ?
 voz e timestamps
-  â†“
-roteamento: cÃ¢mera | sem rosto | hÃ­brido | 3D
-  â†“
-ediÃ§Ã£o, animaÃ§Ã£o, legendas e Ã¡udio
-  â†“
-prÃ©via e revisÃ£o
-  â†“
-aprovaÃ§Ã£o
-  â†“
-publicaÃ§Ã£o/agendamento, se conectado
+  ?
+roteamento: c�mera | sem rosto | h�brido | 3D
+  ?
+edi��o, anima��o, legendas e �udio
+  ?
+pr�via e revis�o
+  ?
+aprova��o
+  ?
+publica��o/agendamento, se conectado
 ```
 
-## Componentes reutilizÃ¡veis
+## Componentes reutiliz�veis
 
-- `editar-criativo`: fluxo de anÃºncios verticais, Whisper, geraÃ§Ã£o de voz, FFmpeg, efeitos, captions, LUFS, folhas de frames e variaÃ§Ãµes.
-- `animador-zero`: Faster-Whisper, env de volume, cenas 3D, personagens, boca, cÃ¢mera, cartÃµes, render via Puppeteer/Three.js, prÃ©via e finalizaÃ§Ã£o.
-- `trend-discovery` e `competitor-social-research`: quando instalados e conectados a fontes, apoiam pesquisa de tendÃªncia e concorrentes.
-- `remotion-captions` e `remotion-render`: quando instalados, apoiam captions temporizadas e render por composiÃ§Ã£o.
-- `social-publisher`: quando autenticado e validado, apoia agendamento/publicaÃ§Ã£o.
+- `editar-criativo`: fluxo de an�ncios verticais, Whisper, gera��o de voz, FFmpeg, efeitos, captions, LUFS, folhas de frames e varia��es.
+- `animador-zero`: Faster-Whisper, env de volume, cenas 3D, personagens, boca, c�mera, cart�es, render via Puppeteer/Three.js, pr�via e finaliza��o.
+- `trend-discovery` e `competitor-social-research`: quando instalados e conectados a fontes, apoiam pesquisa de tend�ncia e concorrentes.
+- `remotion-captions` e `remotion-render`: quando instalados, apoiam captions temporizadas e render por composi��o.
+- `social-publisher`: quando autenticado e validado, apoia agendamento/publica��o.
 
-## DependÃªncias externas
+## Depend�ncias externas
 
-Pesquisa de Instagram/TikTok, clonagem de voz, notificaÃ§Ãµes, publicaÃ§Ã£o e DMs nÃ£o sÃ£o garantidas pelo SKILL.md. Elas precisam de API, navegador autenticado, ferramenta intermediÃ¡ria ou integraÃ§Ã£o local. Registrar cada dependÃªncia como pendÃªncia no projeto.
-
+Pesquisa de Instagram/TikTok, clonagem de voz, notifica��es, publica��o e DMs n�o s�o garantidas pelo SKILL.md. Elas precisam de API, navegador autenticado, ferramenta intermedi�ria ou integra��o local. Registrar cada depend�ncia como pend�ncia no projeto.

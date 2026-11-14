@@ -1,4 +1,4 @@
-# InstalaÃ§Ã£o do Radar Viral
+# Instalação do Radar Viral
 
 1. Tenha Node.js, FFmpeg, FFprobe e Python instalados.
 2. Rode `scripts/setup.ps1` no Windows para verificar o ambiente.
@@ -9,7 +9,6 @@ npx -y @elevenlabs/cli@latest onboard init
 ```
 
 4. Em `Configurar voz`, escolha as vozes no ElevenLabs e informe apenas os IDs.
-5. Para vÃ­deos 3D, disponibilize o `animador-zero` no ambiente do cliente.
+5. Para vídeos 3D, disponibilize o `animador-zero` no ambiente do cliente.
 
-O instalador verifica dependÃªncias, mas nÃ£o baixa ferramentas pesadas nem cria cobranÃ§as automaticamente.
-
+O instalador verifica dependências, mas não baixa ferramentas pesadas nem cria cobranças automaticamente.

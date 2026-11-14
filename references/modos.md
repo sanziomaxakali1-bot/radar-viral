@@ -1,28 +1,27 @@
-# Modos da MÃ¡quina de Reels
+# Modos da M�quina de Reels
 
-## Pessoa na cÃ¢mera
+## Pessoa na c�mera
 
-Entradas: vÃ­deo bruto, Ã¡udio original opcional, B-roll, prints, oferta, CTA e textos obrigatÃ³rios.
+Entradas: v�deo bruto, �udio original opcional, B-roll, prints, oferta, CTA e textos obrigat�rios.
 
-SaÃ­das: vÃ­deo vertical, cortes de retenÃ§Ã£o, legendas, versÃ£o limpa, versÃ£o com efeitos e relatÃ³rio de revisÃ£o.
+Sa�das: v�deo vertical, cortes de reten��o, legendas, vers�o limpa, vers�o com efeitos e relat�rio de revis�o.
 
-Pergunte antes de alterar: rosto, voz, palavras aprovadas, preÃ§o, promessa e trechos que nÃ£o podem ser removidos.
+Pergunte antes de alterar: rosto, voz, palavras aprovadas, pre�o, promessa e trechos que n�o podem ser removidos.
 
 ## Sem rosto
 
-Entradas: roteiro ou briefing, narraÃ§Ã£o, vÃ­deos/imagens prÃ³prios ou licenciados e identidade visual.
+Entradas: roteiro ou briefing, narra��o, v�deos/imagens pr�prios ou licenciados e identidade visual.
 
-SaÃ­das: montagem com B-roll, imagens ou cenas geradas, narraÃ§Ã£o, legendas e CTA.
+Sa�das: montagem com B-roll, imagens ou cenas geradas, narra��o, legendas e CTA.
 
-## HÃ­brido
+## H�brido
 
-Defina em que pontos a pessoa aparece. Use a fala para conexÃ£o e as cenas de apoio para demonstrar mecanismo, prova e oferta.
+Defina em que pontos a pessoa aparece. Use a fala para conex�o e as cenas de apoio para demonstrar mecanismo, prova e oferta.
 
 ## 3D
 
-Use o roteiro tÃ©cnico com falas cronometradas, personagens, planos, cartÃµes, aÃ§Ãµes, trilha e CTA. Gere prÃ©via antes do render completo.
+Use o roteiro t�cnico com falas cronometradas, personagens, planos, cart�es, a��es, trilha e CTA. Gere pr�via antes do render completo.
 
-## ConteÃºdo modelado
+## Conte�do modelado
 
-Transcreva a referÃªncia e registre copy, mecanismo, prova visual, cortes, ritmo e CTA. Reescreva com palavras prÃ³prias e use apenas material autorizado.
-
+Transcreva a refer�ncia e registre copy, mecanismo, prova visual, cortes, ritmo e CTA. Reescreva com palavras pr�prias e use apenas material autorizado.

@@ -17,17 +17,16 @@ ultima_verificacao:
 proximo_passo:
 ```
 
-Ao retomar um projeto, leia primeiro esse arquivo e apenas os recursos ligados ao `proximo_passo`. NÃ£o reanalise a conversa, o ZIP ou todos os arquivos se o estado jÃ¡ registrar a decisÃ£o.
+Ao retomar um projeto, leia primeiro esse arquivo e apenas os recursos ligados ao `proximo_passo`. Não reanalise a conversa, o ZIP ou todos os arquivos se o estado já registrar a decisão.
 
-## RelatÃ³rio econÃ´mico
+## Relatório econômico
 
 Use este formato:
 
 ```text
-STATUS: concluÃ­do | parcial | bloqueado
+STATUS: concluído | parcial | bloqueado
 RESULTADO: uma frase
 ARQUIVO: caminho principal
-PENDÃŠNCIA: somente se existir
-PRÃ“XIMO PASSO: uma frase
+PENDÊNCIA: somente se existir
+PRÓXIMO PASSO: uma frase
 ```
-

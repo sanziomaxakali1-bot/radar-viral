@@ -19,4 +19,3 @@ Write-Host 'Credenciais nao sao instaladas automaticamente.' -ForegroundColor Gr
 Write-Host 'Para conectar ElevenLabs: npx -y @elevenlabs/cli@latest onboard init' -ForegroundColor Gray
 if ($missing.Count -gt 0) { Write-Host "Pendencias: $($missing -join ', ')" -ForegroundColor Yellow; exit 1 }
 Write-Host 'Ambiente basico pronto.' -ForegroundColor Green
-
